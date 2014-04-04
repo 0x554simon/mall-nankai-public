@@ -66,12 +66,6 @@ product_template:
       model:
         label: 型号
         type: text
-      recommend_use:
-        label: 推荐用途
-        type: text
-      os:
-        label: 操作系统
-        type: text
       cpu:
         label: CPU
         type: text
@@ -80,6 +74,12 @@ product_template:
         type: text
       harddisk:
         label: 硬盘
+        type: text
+      video_memory:
+        label: 显存
+        type: text
+      display:
+        label: 显示器
         type: text
     
 product_category:
@@ -189,7 +189,7 @@ product_criteria:
           6: 3TB
           7: 3TB以上
       video_memory:
-        title: 显寸
+        title: 显存
         opts:
           1: SDRAM
           2: SGRAM
