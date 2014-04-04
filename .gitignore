@@ -1,0 +1,9 @@
+.DS*
+/vendor
+composer.lock
+web
+cache
+bower_components
+node_modules
+bower.json
+raw/l10n/template.pot

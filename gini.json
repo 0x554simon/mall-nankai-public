@@ -1,0 +1,15 @@
+{
+    "id": "mall-nankai-public",
+    "name": "南开大学电子商城",
+    "description": "南开大学电子商城",
+    "version": "0.1.0",
+    "dependencies": {
+	"mall-public": "*"
+    },
+    "rurl": {
+        "img": "assets/img",
+        "css": "assets/css",
+        "js": "assets/js",
+        "*": "assets"
+    }
+}
