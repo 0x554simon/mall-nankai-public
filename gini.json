@@ -4,7 +4,7 @@
     "description": "南开大学电子商城",
     "version": "0.1.0",
     "dependencies": {
-	"mall-public": "*"
+        "mall-public": "*"
     },
     "rurl": {
         "img": "assets/img",
