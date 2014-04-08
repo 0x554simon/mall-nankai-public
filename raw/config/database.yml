@@ -1,0 +1,6 @@
+---
+default:
+  dsn: mysql:dbname=mall2_nankai;host=localhost
+  username: genee
+  password: 83719730
+...
