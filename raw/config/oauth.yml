@@ -1,0 +1,16 @@
+---
+server:
+  login_url: login
+  storage: 
+    client: mall
+client:
+  servers:
+    mall.nankai:
+      title: 南开大学商城
+      client_id: e09126ce4802612612da784e85014e7b
+      client_secret: 34eb59e2e3f313e900693dd89340b9da
+      auth: http://mall.nankai.edu.cn/!oauth/provider2/index
+      token: http://mall.nankai.edu.cn/!oauth/provider2/access_token
+      user: http://mall.nankai.edu.cn/!oauth/provider2/user
+      driver: gini
+...
